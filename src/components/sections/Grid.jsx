@@ -1,7 +1,7 @@
 import styles from '../../styles/Grid.module.sass';
 
 export function Grid() {
-
+    
     // Test data
     const items = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}];
  
